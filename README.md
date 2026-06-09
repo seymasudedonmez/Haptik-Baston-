@@ -1,0 +1,3 @@
+Haptik Beyaz Baston, görme engelli bireylerin karşılarına çıkan engelleri algılayarak haptik geri bildirimler ile kullanıcıyı uyaran, kullanıcının bastonunu kaybetmesi durumunda Bluetooth özelliği sayesinde telefonuyla iletişime girerek (yerini tespit ederek) bastondan sesli uyarı (alarm-ses) veren akıllı bir bastondur. Haptik Beyaz Baston; Giyilebilir Teknoloji unsurlarını barındıran, Bluetooth entegrasyonlu bir Akıllı Yardımcı Teknoloji ürünüdür. Hedef kullanıcı kitlesi, günlük hayatta beyaz baston kullanımı gerçekleştiren yetişkin görme engelli bireylerdir.
+
+Burada Haptik Baston'un çalışır kod yapısını bulabilirsiniz.
